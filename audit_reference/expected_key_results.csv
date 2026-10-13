@@ -1,0 +1,15 @@
+metric,expected_value,provenance
+bulk_positive_control_spearman_rho,0.921761,saved audit bundle
+bulk_positive_control_direction_concordance,0.873147,saved audit bundle
+epi52_n_patients,52,saved metadata
+epi52_pN0,28,saved metadata
+epi52_pNplus,24,saved metadata
+epi52_epithelial_cells,44122,saved metadata
+leading_edge_union,77,saved recurrence table
+core60_n,60,saved recurrence/core gene files
+core57_GSE53624_beta,0.007336104,saved executed output
+core57_GSE53622_beta,0.2772910,saved executed output
+core57_TCGA_ESCC_beta,0.652862860,saved executed output
+core57_meta_beta,0.2866,saved metafor output
+core57_meta_p,0.1476,saved metafor output
+core57_meta_I2,56.58,saved metafor output

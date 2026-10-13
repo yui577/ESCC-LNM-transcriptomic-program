@@ -1,0 +1,8 @@
+dataset	public_identifier	role	local_input_used_by_reconstructed_repo	status
+GSE53624	GSE53624	bulk ESCC microarray cohort	03_bulk_analysis/GSE53624_gene_expression_119tumors.rds; 03_bulk_analysis/GSE53624_clinical_main.rds	preserved executed intermediate
+GSE53622	GSE53622	bulk ESCC microarray cohort	03_bulk_analysis/GSE53622_gene_expression_60tumors.rds; 03_bulk_analysis/GSE53622_clinical_main.rds	preserved executed intermediate
+GPL18109	GPL18109	microarray platform annotation	03_bulk_analysis/GPL18109_GENCODEv40_unique_probe_gene_map.rds	preserved executed intermediate; upstream BLAST/reannotation source only partially recovered
+TCGA-ESCC	TCGA-ESCA restricted to ESCC	bulk RNA-seq cohort	06_TCGA_ESCC/TCGA_ESCC_voom_83patients.rds	preserved executed intermediate; GDC acquisition partly recovered
+GSE160269	GSE160269	cell-type-resolved patient pseudobulk	05_scRNA_GSE160269/GSE160269_Epithelial_main52_pseudobulk_counts.tsv.gz; sensitivity55 and non-epithelial pseudobulk objects	preserved executed intermediates
+GSE160269 supplementary	41467_2021_25539_MOESM8_ESM.xlsx	published epithelial marker programs	05_scRNA_GSE160269/41467_2021_25539_MOESM8_ESM.xlsx	original-study supplementary workbook
+MSigDB Hallmark	h.all.v2025.1.Hs.symbols.gmt	GSE160269 GSEA	05_scRNA_GSE160269/h.all.v2025.1.Hs.symbols.gmt	local GMT used in executed analysis

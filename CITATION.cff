@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this software release and the associated manuscript."
+title: "ESCC nodal-involvement transcriptomic analysis: audited reproducibility reconstruction"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/yui577/ESCC-LNM-transcriptomic-program"
+url: "https://github.com/yui577/ESCC-LNM-transcriptomic-program"
+authors:
+  - family-names: "Qian"
+    given-names: "Jiafu"
+    affiliation: "Department of Thoracic Surgery, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong 226001, China"
+    email: "3237787165@qq.com"
+    orcid: "https://orcid.org/0009-0005-7143-058X"
+keywords:
+  - "esophageal squamous cell carcinoma"
+  - "ESCC"
+  - "lymph node metastasis"
+  - "transcriptomics"
+  - "pseudobulk"
+  - "gene set enrichment analysis"
+  - "reproducibility"
+abstract: >-
+  Validated R analysis code and reproducibility documentation supporting a
+  cross-cohort transcriptomic study of pathological nodal involvement in
+  esophageal squamous cell carcinoma. The repository is an audited
+  reproducibility reconstruction based on preserved analysis objects, retained
+  R history, recovered execution commands, and locked numerical audit targets.

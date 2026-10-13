@@ -1,0 +1,21 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local analysis data and outputs
+03_bulk_analysis/
+05_scRNA_GSE160269/
+06_TCGA_ESCC/
+reconstructed_outputs/
+
+# Large data files
+*.rds
+*.RData
+*.tsv.gz
+*.txt.gz
+
+# OS
+.DS_Store
+Thumbs.db
