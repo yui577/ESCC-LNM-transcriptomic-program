@@ -3,6 +3,8 @@ message: "If you use this software, please cite this software release and the as
 title: "ESCC nodal-involvement transcriptomic analysis: audited reproducibility reconstruction"
 type: software
 version: 1.0.0
+date-released: 2026-10-13
+doi: "10.5281/zenodo.23348180"
 license: MIT
 repository-code: "https://github.com/yui577/ESCC-LNM-transcriptomic-program"
 url: "https://github.com/yui577/ESCC-LNM-transcriptomic-program"
